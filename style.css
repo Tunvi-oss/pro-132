@@ -1,0 +1,21 @@
+body{
+    background-position: center;
+    background-size: cover;
+}
+
+a{
+    height: 50px;
+    width: 400px;
+    color: deeppink;
+    font-size: 10px;
+    background-color: ghostwhite;
+    border-radius: 30px;
+
+}
+
+.h1
+{
+    font-family: fantasy;
+    text-shadow: grey;
+
+}
